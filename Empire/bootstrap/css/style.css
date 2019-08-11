@@ -1,0 +1,186 @@
+body {
+	margin: 0 10%
+}
+#logo{
+	width: 45%;
+	float:left;
+
+}
+#logo img{
+	width: 80px;
+	height: 60px;
+}
+#MYYST {
+	color: #8B4513;
+}
+
+#alert {
+	display: inline-block;
+}
+
+#registerForm {
+	max-width: 370px;
+	margin: 40px auto;
+
+}
+#exampleInputEmail1-error {
+	color: red;
+}
+.container {
+	max-width: 960px;
+	margin: 0 auto;
+	background: #f9f9f9;
+	font-size: 24px;
+	padding: 25px;
+}
+.parallax {
+	background: url("imgs/Bar-2.jpg") no-repeat center;
+	background-size: cover;
+	background-attachment: fixed;
+	height: 500px;
+	margin-top: 30px;
+}
+.BAR {
+	text-align: center;	
+}
+
+
+
+#carouselExampleFade {
+	margin: 0 25%;
+	margin-left: 200px;
+	margin-right: 200px;
+}
+.carousel-inner {
+	top: 50px;
+}
+#galleryMYYST {
+	text-align: center;
+}
+#gallery {
+	color: #ff9933;
+	text-align: center;
+	font-size: 40px
+}
+.carousel-control-prev-icon {
+	margin-right: 80px !important;
+	margin-top: 100px !important;
+}
+.carousel-control-next-icon {
+	margin-left: 80px !important;
+	margin-top: 80px !important;
+}
+
+
+
+
+#Club {
+	text-align: center;
+	margin-bottom: 20px;
+	margin-top: 30px;
+
+}
+
+#imgs div{
+	margin-right: 70px;
+	display: inline;
+
+}
+#imgs div:first-child{
+	margin-left: 320px;
+}
+
+#coctails {
+	text-align: center;
+}
+
+#products {
+	margin-left: 30px;
+}
+.classproducts {
+	margin-top: 20px;
+	display: flex;
+}
+.product-item {
+	display: inline-block;
+	max-width: 450px;
+}
+
+.product-item > img {
+	float: left;
+}
+
+.product-name {
+	color: #ff9933;
+/*	text-align: center;*/
+}
+.desc {
+	line-height: 2;
+	color: #e0e0d1;
+}
+#menu1 {
+	margin-left: 231px;
+}
+
+#content {
+	text-align: right;
+	margin-right: 190px;
+}
+.h3 {
+	text-align: center;
+
+}
+
+#cover {
+	margin-top: 50px;
+	margin-left: 315px;
+}
+
+#moreinfo2 {
+	color: #e1e1d0;
+	margin-top: 20px;
+	margin-right: 12px;
+	text-align: left;
+	line-height: 2;
+}
+
+#moreinfo {
+	color: #ff9933; 
+	text-align: center;
+	font-size: 1.5em;
+	line-height: 2;
+}
+
+
+
+.clear {
+    width: 160px;
+    height: 40px;
+}
+
+
+
+
+footer {
+	width: 100%;
+	background-color: #f5f5ef;
+	padding: 30px 10px;
+	margin-top: 150px;
+
+}
+
+#contact {
+	text-align: center;
+}
+.contact-info {
+	margin-left: 150px;
+	margin-top: 100px;
+}
+#map {
+	margin-bottom: 15px;
+}
+
+#icons div{
+	display: inline;
+	margin-left: 280px;
+}
